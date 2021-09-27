@@ -21,6 +21,7 @@
 /// case for the interceptor pipelines. Storing the `first` and `last` directly allows us to avoid
 /// this. See also: https://bugs.swift.org/browse/SR-11262.
 @usableFromInline
+@frozen
 internal struct InterceptorContextList<Element> {
   /// The first element, stored at `middle.startIndex - 1`.
   @usableFromInline

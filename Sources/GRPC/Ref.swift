@@ -19,7 +19,7 @@ internal final class Ref<Value> {
   @usableFromInline
   internal var value: Value
 
-  @inlinable
+  @usableFromInline
   internal init(_ value: Value) {
     self.value = value
   }

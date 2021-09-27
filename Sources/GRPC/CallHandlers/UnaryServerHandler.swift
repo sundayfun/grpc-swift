@@ -65,7 +65,6 @@ public final class UnaryServerHandler<
     case completed
   }
 
-  @inlinable
   public init(
     context: CallHandlerContext,
     requestDeserializer: Deserializer,

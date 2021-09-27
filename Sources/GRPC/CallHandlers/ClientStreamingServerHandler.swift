@@ -70,7 +70,6 @@ public final class ClientStreamingServerHandler<
     case completed
   }
 
-  @inlinable
   public init(
     context: CallHandlerContext,
     requestDeserializer: Deserializer,

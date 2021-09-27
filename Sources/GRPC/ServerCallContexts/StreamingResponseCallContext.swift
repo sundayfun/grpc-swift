@@ -63,7 +63,7 @@ open class StreamingResponseCallContext<ResponsePayload>: ServerCallContextBase 
     )
   }
 
-  @inlinable
+  @usableFromInline
   override internal init(
     eventLoop: EventLoop,
     headers: HPACKHeaders,
@@ -154,7 +154,7 @@ internal final class _StreamingResponseCallContext<Request, Response>:
   @usableFromInline
   internal let _compressionEnabledOnServer: Bool
 
-  @inlinable
+  @usableFromInline
   internal init(
     eventLoop: EventLoop,
     headers: HPACKHeaders,

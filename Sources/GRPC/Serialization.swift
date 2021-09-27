@@ -41,6 +41,7 @@ public protocol MessageDeserializer {
 
 // MARK: Protobuf
 
+@frozen
 public struct ProtobufSerializer<Message: SwiftProtobuf.Message>: MessageSerializer {
   @inlinable
   public init() {}
@@ -64,6 +65,7 @@ public struct ProtobufSerializer<Message: SwiftProtobuf.Message>: MessageSeriali
   }
 }
 
+@frozen
 public struct ProtobufDeserializer<Message: SwiftProtobuf.Message>: MessageDeserializer {
   @inlinable
   public init() {}
@@ -79,6 +81,7 @@ public struct ProtobufDeserializer<Message: SwiftProtobuf.Message>: MessageDeser
 
 // MARK: GRPCPayload
 
+@frozen
 public struct GRPCPayloadSerializer<Message: GRPCPayload>: MessageSerializer {
   @inlinable
   public init() {}
@@ -115,6 +118,7 @@ public struct GRPCPayloadSerializer<Message: GRPCPayload>: MessageSerializer {
   }
 }
 
+@frozen
 public struct GRPCPayloadDeserializer<Message: GRPCPayload>: MessageDeserializer {
   @inlinable
   public init() {}

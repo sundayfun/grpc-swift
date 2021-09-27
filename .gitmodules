@@ -9,16 +9,16 @@
 	url = https://github.com/apple/swift-nio-extras.git
 [submodule "Dependencies/swift-nio-http2"]
 	path = Dependencies/swift-nio-http2
-	url = https://github.com/apple/swift-nio-http2.git
+	url = https://github.com/sundayfun/swift-nio-http2.git
 [submodule "Dependencies/swift-nio-ssl"]
 	path = Dependencies/swift-nio-ssl
-	url = https://github.com/apple/swift-nio-ssl.git
+	url = https://github.com/sundayfun/swift-nio-ssl.git
 [submodule "Dependencies/swift-nio-transport-services"]
 	path = Dependencies/swift-nio-transport-services
 	url = https://github.com/apple/swift-nio-transport-services.git
 [submodule "Dependencies/swift-nio"]
 	path = Dependencies/swift-nio
-	url = https://github.com/apple/swift-nio.git
+	url = https://github.com/sundayfun/swift-nio.git
 [submodule "Dependencies/swift-protobuf"]
 	path = Dependencies/swift-protobuf
 	url = https://github.com/apple/swift-protobuf.git

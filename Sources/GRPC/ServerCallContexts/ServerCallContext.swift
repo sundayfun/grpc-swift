@@ -165,7 +165,7 @@ open class ServerCallContextBase: ServerCallContext {
     )
   }
 
-  @inlinable
+  @usableFromInline
   internal init(
     eventLoop: EventLoop,
     headers: HPACKHeaders,

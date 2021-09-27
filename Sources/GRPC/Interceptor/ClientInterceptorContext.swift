@@ -16,6 +16,7 @@
 import Logging
 import NIOCore
 
+@frozen
 public struct ClientInterceptorContext<Request, Response> {
   /// The interceptor this context is for.
   @usableFromInline

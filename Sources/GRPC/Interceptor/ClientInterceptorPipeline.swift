@@ -131,7 +131,7 @@ internal final class ClientInterceptorPipeline<Request, Response> {
     return index >= self._tailIndex && index <= self._headIndex
   }
 
-  @inlinable
+  @usableFromInline
   internal init(
     eventLoop: EventLoop,
     details: CallDetails,

@@ -91,7 +91,7 @@ internal final class ServerInterceptorPipeline<Request, Response> {
     return self._headIndex <= index && index <= self._tailIndex
   }
 
-  @inlinable
+  @usableFromInline
   internal init(
     logger: Logger,
     eventLoop: EventLoop,

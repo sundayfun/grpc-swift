@@ -83,7 +83,7 @@ open class UnaryResponseCallContext<Response>: ServerCallContextBase, StatusOnly
     )
   }
 
-  @inlinable
+  @usableFromInline
   override internal init(
     eventLoop: EventLoop,
     headers: HPACKHeaders,

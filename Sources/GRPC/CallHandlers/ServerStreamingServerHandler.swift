@@ -66,7 +66,6 @@ public final class ServerStreamingServerHandler<
     case completed
   }
 
-  @inlinable
   public init(
     context: CallHandlerContext,
     requestDeserializer: Deserializer,

@@ -69,7 +69,6 @@ public final class BidirectionalStreamingServerHandler<
     case completed
   }
 
-  @inlinable
   public init(
     context: CallHandlerContext,
     requestDeserializer: Deserializer,
