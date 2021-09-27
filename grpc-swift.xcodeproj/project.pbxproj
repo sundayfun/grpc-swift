@@ -6084,7 +6084,7 @@
 		OBJ_1106 /* TLSConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLSConfiguration.swift; sourceTree = "<group>"; };
 		OBJ_1107 /* UniversalBootstrapSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniversalBootstrapSupport.swift; sourceTree = "<group>"; };
 		OBJ_111 /* Ref.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ref.swift; sourceTree = "<group>"; };
-		OBJ_1110 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-nio-ssl/Package.swift"; sourceTree = "<group>"; };
+		OBJ_1110 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-nio-ssl/Package.swift"; sourceTree = "<group>"; };
 		OBJ_1113 /* DynamicHeaderTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicHeaderTable.swift; sourceTree = "<group>"; };
 		OBJ_1114 /* HPACKDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HPACKDecoder.swift; sourceTree = "<group>"; };
 		OBJ_1115 /* HPACKEncoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HPACKEncoder.swift; sourceTree = "<group>"; };
@@ -6158,7 +6158,7 @@
 		OBJ_1182 /* StreamMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamMap.swift; sourceTree = "<group>"; };
 		OBJ_1183 /* StreamStateMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamStateMachine.swift; sourceTree = "<group>"; };
 		OBJ_1184 /* WatermarkedFlowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatermarkedFlowController.swift; sourceTree = "<group>"; };
-		OBJ_1185 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-nio-http2/Package.swift"; sourceTree = "<group>"; };
+		OBJ_1185 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-nio-http2/Package.swift"; sourceTree = "<group>"; };
 		OBJ_1189 /* c-atomics.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "c-atomics.c"; sourceTree = "<group>"; };
 		OBJ_119 /* ServerChannelErrorHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServerChannelErrorHandler.swift; sourceTree = "<group>"; };
 		OBJ_1190 /* c-nioatomics.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "c-nioatomics.c"; sourceTree = "<group>"; };
@@ -6177,7 +6177,7 @@
 		OBJ_1210 /* WSAStartup.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = WSAStartup.c; sourceTree = "<group>"; };
 		OBJ_1211 /* shim.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = shim.c; sourceTree = "<group>"; };
 		OBJ_1213 /* CNIOWindows.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CNIOWindows.h; sourceTree = "<group>"; };
-		OBJ_1214 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap"; sourceTree = "<group>"; };
+		OBJ_1214 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap"; sourceTree = "<group>"; };
 		OBJ_1216 /* Exports.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exports.swift; sourceTree = "<group>"; };
 		OBJ_1218 /* NIOAtomic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NIOAtomic.swift; sourceTree = "<group>"; };
 		OBJ_1219 /* atomics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = atomics.swift; sourceTree = "<group>"; };
@@ -6302,7 +6302,7 @@
 		OBJ_1331 /* TLSEvents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLSEvents.swift; sourceTree = "<group>"; };
 		OBJ_1336 /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		OBJ_1337 /* PriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityQueue.swift; sourceTree = "<group>"; };
-		OBJ_1338 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-nio/Package.swift"; sourceTree = "<group>"; };
+		OBJ_1338 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-nio/Package.swift"; sourceTree = "<group>"; };
 		OBJ_134 /* _MessageContext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _MessageContext.swift; sourceTree = "<group>"; };
 		OBJ_136 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		OBJ_137 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -6521,12 +6521,12 @@
 		OBJ_351 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		OBJ_352 /* Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tree.swift; sourceTree = "<group>"; };
 		OBJ_354 /* ToolInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolInfo.swift; sourceTree = "<group>"; };
-		OBJ_355 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-argument-parser/Package.swift"; sourceTree = "<group>"; };
+		OBJ_355 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-argument-parser/Package.swift"; sourceTree = "<group>"; };
 		OBJ_358 /* Locks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locks.swift; sourceTree = "<group>"; };
 		OBJ_359 /* LogHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogHandler.swift; sourceTree = "<group>"; };
 		OBJ_36 /* ClientStreamingCall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClientStreamingCall.swift; sourceTree = "<group>"; };
 		OBJ_360 /* Logging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logging.swift; sourceTree = "<group>"; };
-		OBJ_361 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-log/Package.swift"; sourceTree = "<group>"; };
+		OBJ_361 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-log/Package.swift"; sourceTree = "<group>"; };
 		OBJ_364 /* AnyMessageStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyMessageStorage.swift; sourceTree = "<group>"; };
 		OBJ_365 /* AnyUnpackError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyUnpackError.swift; sourceTree = "<group>"; };
 		OBJ_366 /* BinaryDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryDecoder.swift; sourceTree = "<group>"; };
@@ -6637,7 +6637,7 @@
 		OBJ_463 /* UnicodeScalar+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UnicodeScalar+Extensions.swift"; sourceTree = "<group>"; };
 		OBJ_464 /* plugin.pb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plugin.pb.swift; sourceTree = "<group>"; };
 		OBJ_465 /* swift_protobuf_module_mappings.pb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_protobuf_module_mappings.pb.swift; sourceTree = "<group>"; };
-		OBJ_467 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-protobuf/Package.swift"; sourceTree = "<group>"; };
+		OBJ_467 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-protobuf/Package.swift"; sourceTree = "<group>"; };
 		OBJ_47 /* MessageEncoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageEncoding.swift; sourceTree = "<group>"; };
 		OBJ_471 /* DebugInboundEventsHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebugInboundEventsHandler.swift; sourceTree = "<group>"; };
 		OBJ_472 /* DebugOutboundEventsHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebugOutboundEventsHandler.swift; sourceTree = "<group>"; };
@@ -6654,7 +6654,7 @@
 		OBJ_482 /* QuiescingHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuiescingHelper.swift; sourceTree = "<group>"; };
 		OBJ_483 /* RequestResponseHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestResponseHandler.swift; sourceTree = "<group>"; };
 		OBJ_484 /* WritePCAPHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WritePCAPHandler.swift; sourceTree = "<group>"; };
-		OBJ_487 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-nio-extras/Package.swift"; sourceTree = "<group>"; };
+		OBJ_487 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-nio-extras/Package.swift"; sourceTree = "<group>"; };
 		OBJ_49 /* ConnectionBackoff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionBackoff.swift; sourceTree = "<group>"; };
 		OBJ_490 /* NIOFilterEmptyWritesHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NIOFilterEmptyWritesHandler.swift; sourceTree = "<group>"; };
 		OBJ_491 /* NIOTSBootstraps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NIOTSBootstraps.swift; sourceTree = "<group>"; };
@@ -6671,7 +6671,7 @@
 		OBJ_501 /* SocketAddress+NWEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SocketAddress+NWEndpoint.swift"; sourceTree = "<group>"; };
 		OBJ_502 /* StateManagedChannel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateManagedChannel.swift; sourceTree = "<group>"; };
 		OBJ_503 /* TCPOptions+SocketChannelOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TCPOptions+SocketChannelOption.swift"; sourceTree = "<group>"; };
-		OBJ_504 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/.build/checkouts/swift-nio-transport-services/Package.swift"; sourceTree = "<group>"; };
+		OBJ_504 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/frain/Local/Development/grpc-swift/Dependencies/swift-nio-transport-services/Package.swift"; sourceTree = "<group>"; };
 		OBJ_509 /* a_bitstr.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = a_bitstr.c; sourceTree = "<group>"; };
 		OBJ_51 /* ConnectionManager+Delegates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ConnectionManager+Delegates.swift"; sourceTree = "<group>"; };
 		OBJ_510 /* a_bool.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = a_bool.c; sourceTree = "<group>"; };
@@ -8225,7 +8225,7 @@
 				OBJ_1085 /* include */,
 			);
 			name = CNIOBoringSSLShims;
-			path = ".build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims";
+			path = "Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1085 /* include */ = {
@@ -8261,7 +8261,7 @@
 				OBJ_1107 /* UniversalBootstrapSupport.swift */,
 			);
 			name = NIOSSL;
-			path = ".build/checkouts/swift-nio-ssl/Sources/NIOSSL";
+			path = "Dependencies/swift-nio-ssl/Sources/NIOSSL";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1108 /* NIOSSLHTTP1Client */ = {
@@ -8269,7 +8269,7 @@
 			children = (
 			);
 			name = NIOSSLHTTP1Client;
-			path = ".build/checkouts/swift-nio-ssl/Sources/NIOSSLHTTP1Client";
+			path = "Dependencies/swift-nio-ssl/Sources/NIOSSLHTTP1Client";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1109 /* NIOTLSServer */ = {
@@ -8277,7 +8277,7 @@
 			children = (
 			);
 			name = NIOTLSServer;
-			path = ".build/checkouts/swift-nio-ssl/Sources/NIOTLSServer";
+			path = "Dependencies/swift-nio-ssl/Sources/NIOTLSServer";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1111 /* swift-nio-http2 1.18.3 */ = {
@@ -8306,7 +8306,7 @@
 				OBJ_1123 /* StaticHeaderTable.swift */,
 			);
 			name = NIOHPACK;
-			path = ".build/checkouts/swift-nio-http2/Sources/NIOHPACK";
+			path = "Dependencies/swift-nio-http2/Sources/NIOHPACK";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1124 /* NIOHTTP2 */ = {
@@ -8343,7 +8343,7 @@
 				OBJ_1184 /* WatermarkedFlowController.swift */,
 			);
 			name = NIOHTTP2;
-			path = ".build/checkouts/swift-nio-http2/Sources/NIOHTTP2";
+			path = "Dependencies/swift-nio-http2/Sources/NIOHTTP2";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1125 /* ConnectionStateMachine */ = {
@@ -8448,7 +8448,7 @@
 				OBJ_1191 /* include */,
 			);
 			name = CNIOAtomics;
-			path = ".build/checkouts/swift-nio/Sources/CNIOAtomics";
+			path = "Dependencies/swift-nio/Sources/CNIOAtomics";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1188 /* src */ = {
@@ -8475,7 +8475,7 @@
 				OBJ_1195 /* include */,
 			);
 			name = CNIODarwin;
-			path = ".build/checkouts/swift-nio/Sources/CNIODarwin";
+			path = "Dependencies/swift-nio/Sources/CNIODarwin";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1195 /* include */ = {
@@ -8493,7 +8493,7 @@
 				OBJ_1199 /* include */,
 			);
 			name = CNIOHTTPParser;
-			path = ".build/checkouts/swift-nio/Sources/CNIOHTTPParser";
+			path = "Dependencies/swift-nio/Sources/CNIOHTTPParser";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1199 /* include */ = {
@@ -8522,7 +8522,7 @@
 				OBJ_1205 /* include */,
 			);
 			name = CNIOLinux;
-			path = ".build/checkouts/swift-nio/Sources/CNIOLinux";
+			path = "Dependencies/swift-nio/Sources/CNIOLinux";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1205 /* include */ = {
@@ -8539,7 +8539,7 @@
 			children = (
 			);
 			name = CNIOSHA1;
-			path = ".build/checkouts/swift-nio/Sources/CNIOSHA1";
+			path = "Dependencies/swift-nio/Sources/CNIOSHA1";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1209 /* CNIOWindows */ = {
@@ -8550,7 +8550,7 @@
 				OBJ_1212 /* include */,
 			);
 			name = CNIOWindows;
-			path = ".build/checkouts/swift-nio/Sources/CNIOWindows";
+			path = "Dependencies/swift-nio/Sources/CNIOWindows";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1212 /* include */ = {
@@ -8568,7 +8568,7 @@
 				OBJ_1216 /* Exports.swift */,
 			);
 			name = NIO;
-			path = ".build/checkouts/swift-nio/Sources/NIO";
+			path = "Dependencies/swift-nio/Sources/NIO";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1217 /* NIOConcurrencyHelpers */ = {
@@ -8579,7 +8579,7 @@
 				OBJ_1220 /* lock.swift */,
 			);
 			name = NIOConcurrencyHelpers;
-			path = ".build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers";
+			path = "Dependencies/swift-nio/Sources/NIOConcurrencyHelpers";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1221 /* NIOCore */ = {
@@ -8631,7 +8631,7 @@
 				OBJ_1265 /* Utilities.swift */,
 			);
 			name = NIOCore;
-			path = ".build/checkouts/swift-nio/Sources/NIOCore";
+			path = "Dependencies/swift-nio/Sources/NIOCore";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1266 /* NIOEmbedded */ = {
@@ -8640,7 +8640,7 @@
 				OBJ_1267 /* Embedded.swift */,
 			);
 			name = NIOEmbedded;
-			path = ".build/checkouts/swift-nio/Sources/NIOEmbedded";
+			path = "Dependencies/swift-nio/Sources/NIOEmbedded";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1268 /* NIOFoundationCompat */ = {
@@ -8651,7 +8651,7 @@
 				OBJ_1271 /* JSONSerialization+ByteBuffer.swift */,
 			);
 			name = NIOFoundationCompat;
-			path = ".build/checkouts/swift-nio/Sources/NIOFoundationCompat";
+			path = "Dependencies/swift-nio/Sources/NIOFoundationCompat";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1272 /* NIOHTTP1 */ = {
@@ -8669,7 +8669,7 @@
 				OBJ_1282 /* NIOHTTPObjectAggregator.swift */,
 			);
 			name = NIOHTTP1;
-			path = ".build/checkouts/swift-nio/Sources/NIOHTTP1";
+			path = "Dependencies/swift-nio/Sources/NIOHTTP1";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1283 /* NIOPosix */ = {
@@ -8721,7 +8721,7 @@
 				OBJ_1327 /* Utilities.swift */,
 			);
 			name = NIOPosix;
-			path = ".build/checkouts/swift-nio/Sources/NIOPosix";
+			path = "Dependencies/swift-nio/Sources/NIOPosix";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1328 /* NIOTLS */ = {
@@ -8732,7 +8732,7 @@
 				OBJ_1331 /* TLSEvents.swift */,
 			);
 			name = NIOTLS;
-			path = ".build/checkouts/swift-nio/Sources/NIOTLS";
+			path = "Dependencies/swift-nio/Sources/NIOTLS";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1332 /* NIOTestUtils */ = {
@@ -8740,7 +8740,7 @@
 			children = (
 			);
 			name = NIOTestUtils;
-			path = ".build/checkouts/swift-nio/Sources/NIOTestUtils";
+			path = "Dependencies/swift-nio/Sources/NIOTestUtils";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1333 /* NIOWebSocket */ = {
@@ -8748,7 +8748,7 @@
 			children = (
 			);
 			name = NIOWebSocket;
-			path = ".build/checkouts/swift-nio/Sources/NIOWebSocket";
+			path = "Dependencies/swift-nio/Sources/NIOWebSocket";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1334 /* _NIOConcurrency */ = {
@@ -8756,7 +8756,7 @@
 			children = (
 			);
 			name = _NIOConcurrency;
-			path = ".build/checkouts/swift-nio/Sources/_NIOConcurrency";
+			path = "Dependencies/swift-nio/Sources/_NIOConcurrency";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1335 /* _NIODataStructures */ = {
@@ -8766,7 +8766,7 @@
 				OBJ_1337 /* PriorityQueue.swift */,
 			);
 			name = _NIODataStructures;
-			path = ".build/checkouts/swift-nio/Sources/_NIODataStructures";
+			path = "Dependencies/swift-nio/Sources/_NIODataStructures";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_1339 /* Products */ = {
@@ -9309,7 +9309,7 @@
 				OBJ_348 /* Utilities */,
 			);
 			name = ArgumentParser;
-			path = ".build/checkouts/swift-argument-parser/Sources/ArgumentParser";
+			path = "Dependencies/swift-argument-parser/Sources/ArgumentParser";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_31 /* ClientCalls */ = {
@@ -9414,7 +9414,7 @@
 				OBJ_354 /* ToolInfo.swift */,
 			);
 			name = ArgumentParserToolInfo;
-			path = ".build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo";
+			path = "Dependencies/swift-argument-parser/Sources/ArgumentParserToolInfo";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_356 /* swift-log 1.4.2 */ = {
@@ -9434,7 +9434,7 @@
 				OBJ_360 /* Logging.swift */,
 			);
 			name = Logging;
-			path = ".build/checkouts/swift-log/Sources/Logging";
+			path = "Dependencies/swift-log/Sources/Logging";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_362 /* SwiftProtobuf 1.17.0 */ = {
@@ -9537,7 +9537,7 @@
 				OBJ_447 /* wrappers.pb.swift */,
 			);
 			name = SwiftProtobuf;
-			path = ".build/checkouts/swift-protobuf/Sources/SwiftProtobuf";
+			path = "Dependencies/swift-protobuf/Sources/SwiftProtobuf";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_44 /* Compression */ = {
@@ -9573,7 +9573,7 @@
 				OBJ_465 /* swift_protobuf_module_mappings.pb.swift */,
 			);
 			name = SwiftProtobufPluginLibrary;
-			path = ".build/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary";
+			path = "Dependencies/swift-protobuf/Sources/SwiftProtobufPluginLibrary";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_466 /* protoc-gen-swift */ = {
@@ -9581,7 +9581,7 @@
 			children = (
 			);
 			name = "protoc-gen-swift";
-			path = ".build/checkouts/swift-protobuf/Sources/protoc-gen-swift";
+			path = "Dependencies/swift-protobuf/Sources/protoc-gen-swift";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_468 /* swift-nio-extras 1.10.2 */ = {
@@ -9601,7 +9601,7 @@
 			children = (
 			);
 			name = CNIOExtrasZlib;
-			path = ".build/checkouts/swift-nio-extras/Sources/CNIOExtrasZlib";
+			path = "Dependencies/swift-nio-extras/Sources/CNIOExtrasZlib";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_470 /* NIOExtras */ = {
@@ -9623,7 +9623,7 @@
 				OBJ_484 /* WritePCAPHandler.swift */,
 			);
 			name = NIOExtras;
-			path = ".build/checkouts/swift-nio-extras/Sources/NIOExtras";
+			path = "Dependencies/swift-nio-extras/Sources/NIOExtras";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_485 /* NIOHTTPCompression */ = {
@@ -9631,7 +9631,7 @@
 			children = (
 			);
 			name = NIOHTTPCompression;
-			path = ".build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression";
+			path = "Dependencies/swift-nio-extras/Sources/NIOHTTPCompression";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_486 /* NIOSOCKS */ = {
@@ -9639,7 +9639,7 @@
 			children = (
 			);
 			name = NIOSOCKS;
-			path = ".build/checkouts/swift-nio-extras/Sources/NIOSOCKS";
+			path = "Dependencies/swift-nio-extras/Sources/NIOSOCKS";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_488 /* swift-nio-transport-services 1.11.3 */ = {
@@ -9670,7 +9670,7 @@
 				OBJ_503 /* TCPOptions+SocketChannelOption.swift */,
 			);
 			name = NIOTransportServices;
-			path = ".build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices";
+			path = "Dependencies/swift-nio-transport-services/Sources/NIOTransportServices";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_5 = {
@@ -9719,7 +9719,7 @@
 				OBJ_1000 /* include */,
 			);
 			name = CNIOBoringSSL;
-			path = ".build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL";
+			path = "Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_507 /* crypto */ = {
@@ -17081,7 +17081,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOAtomics_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17115,7 +17115,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOAtomics_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17150,7 +17150,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOBoringSSL_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17185,7 +17185,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOBoringSSL_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17220,8 +17220,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOBoringSSLShims_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17256,8 +17256,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOBoringSSLShims_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17292,7 +17292,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = __APPLE_USE_RFC_3542;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIODarwin_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17327,7 +17327,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = __APPLE_USE_RFC_3542;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIODarwin_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17361,7 +17361,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOHTTPParser_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17395,7 +17395,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOHTTPParser_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17429,7 +17429,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOLinux_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17463,7 +17463,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOLinux_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17496,7 +17496,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOWindows_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17529,7 +17529,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/CNIOWindows_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -17560,13 +17560,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/Echo_Info.plist";
@@ -17575,7 +17575,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -17597,13 +17597,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/Echo_Info.plist";
@@ -17612,7 +17612,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -17635,13 +17635,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/EchoImplementation_Info.plist";
@@ -17650,7 +17650,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = EchoImplementation;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17675,13 +17675,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/EchoImplementation_Info.plist";
@@ -17690,7 +17690,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = EchoImplementation;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17715,13 +17715,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/EchoModel_Info.plist";
@@ -17730,7 +17730,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = EchoModel;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17755,13 +17755,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/EchoModel_Info.plist";
@@ -17770,7 +17770,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = EchoModel;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17795,13 +17795,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPC_Info.plist";
@@ -17810,7 +17810,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPC;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17835,13 +17835,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPC_Info.plist";
@@ -17850,7 +17850,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPC;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17874,13 +17874,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCConnectionBackoffInteropTest_Info.plist";
@@ -17889,7 +17889,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -17911,13 +17911,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCConnectionBackoffInteropTest_Info.plist";
@@ -17926,7 +17926,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -17949,13 +17949,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCInteroperabilityTestModels_Info.plist";
@@ -17964,7 +17964,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPCInteroperabilityTestModels;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -17989,13 +17989,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCInteroperabilityTestModels_Info.plist";
@@ -18004,7 +18004,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPCInteroperabilityTestModels;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18028,13 +18028,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCInteroperabilityTests_Info.plist";
@@ -18043,7 +18043,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18065,13 +18065,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCInteroperabilityTests_Info.plist";
@@ -18080,7 +18080,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18103,13 +18103,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCInteroperabilityTestsImplementation_Info.plist";
@@ -18118,7 +18118,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPCInteroperabilityTestsImplementation;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18143,13 +18143,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCInteroperabilityTestsImplementation_Info.plist";
@@ -18158,7 +18158,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPCInteroperabilityTestsImplementation;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18182,13 +18182,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCPerformanceTests_Info.plist";
@@ -18197,7 +18197,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18219,13 +18219,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCPerformanceTests_Info.plist";
@@ -18234,7 +18234,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18257,12 +18257,12 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCSampleData_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18270,7 +18270,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPCSampleData;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18295,12 +18295,12 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCSampleData_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18308,7 +18308,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = GRPCSampleData;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18334,13 +18334,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCTests_Info.plist";
@@ -18349,7 +18349,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_VERSION = 5.0;
 				TARGET_NAME = GRPCTests;
@@ -18371,13 +18371,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/GRPCTests_Info.plist";
@@ -18386,7 +18386,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_VERSION = 5.0;
 				TARGET_NAME = GRPCTests;
@@ -18406,13 +18406,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/HelloWorldClient_Info.plist";
@@ -18421,7 +18421,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18443,13 +18443,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/HelloWorldClient_Info.plist";
@@ -18458,7 +18458,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18481,13 +18481,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/HelloWorldModel_Info.plist";
@@ -18496,7 +18496,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = HelloWorldModel;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18521,13 +18521,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/HelloWorldModel_Info.plist";
@@ -18536,7 +18536,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = HelloWorldModel;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18588,13 +18588,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/HelloWorldServer_Info.plist";
@@ -18603,7 +18603,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18625,13 +18625,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/HelloWorldServer_Info.plist";
@@ -18640,7 +18640,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -18723,10 +18723,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIO_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18734,7 +18734,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIO;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18759,10 +18759,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIO_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18770,7 +18770,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIO;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -18795,7 +18795,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOConcurrencyHelpers_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18828,7 +18828,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOConcurrencyHelpers_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18861,8 +18861,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOCore_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18895,8 +18895,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOCore_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18929,8 +18929,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOEmbedded_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18963,8 +18963,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOEmbedded_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -18997,10 +18997,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOExtras_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19008,7 +19008,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOExtras;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19033,10 +19033,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOExtras_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19044,7 +19044,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOExtras;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19069,10 +19069,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOFoundationCompat_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19080,7 +19080,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOFoundationCompat;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19105,10 +19105,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOFoundationCompat_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19116,7 +19116,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOFoundationCompat;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19141,11 +19141,11 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOHPACK_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19153,7 +19153,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOHPACK;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19178,11 +19178,11 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOHPACK_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19190,7 +19190,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOHPACK;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19215,11 +19215,11 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOHTTP1_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19227,7 +19227,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOHTTP1;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19252,11 +19252,11 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOHTTP1_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19264,7 +19264,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOHTTP1;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19289,11 +19289,11 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOHTTP2_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19301,7 +19301,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOHTTP2;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19326,11 +19326,11 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOHTTP2_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19338,7 +19338,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOHTTP2;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19363,10 +19363,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOPosix_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19374,7 +19374,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOPosix;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19399,10 +19399,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOPosix_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19410,7 +19410,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOPosix;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19435,12 +19435,12 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOSSL_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19448,7 +19448,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOSSL;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19473,12 +19473,12 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOSSL_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19486,7 +19486,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOSSL;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19511,10 +19511,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOTLS_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19522,7 +19522,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOTLS;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19547,10 +19547,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOTLS_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19558,7 +19558,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOTLS;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19583,10 +19583,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOTransportServices_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19594,7 +19594,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOTransportServices;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19619,10 +19619,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/NIOTransportServices_Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -19630,7 +19630,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = NIOTransportServices;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19654,13 +19654,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/PacketCapture_Info.plist";
@@ -19669,7 +19669,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -19691,13 +19691,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/PacketCapture_Info.plist";
@@ -19706,7 +19706,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -19728,13 +19728,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/RouteGuideClient_Info.plist";
@@ -19743,7 +19743,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -19765,13 +19765,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/RouteGuideClient_Info.plist";
@@ -19780,7 +19780,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -19803,13 +19803,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/RouteGuideModel_Info.plist";
@@ -19818,7 +19818,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = RouteGuideModel;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19843,13 +19843,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/RouteGuideModel_Info.plist";
@@ -19858,7 +19858,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = RouteGuideModel;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -19882,13 +19882,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/RouteGuideServer_Info.plist";
@@ -19897,7 +19897,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -19919,13 +19919,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIODarwin/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOLinux/include",
-					"$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOAtomics/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSLShims/include",
+					"$(SRCROOT)/Dependencies/swift-nio-ssl/Sources/CNIOBoringSSL/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOHTTPParser/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIODarwin/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOLinux/include",
+					"$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOAtomics/include",
 					"$(SRCROOT)/Sources/CGRPCZlib/include",
 				);
 				INFOPLIST_FILE = "grpc-swift.xcodeproj/RouteGuideServer_Info.plist";
@@ -19934,7 +19934,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/swift-nio/Sources/CNIOWindows/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/Dependencies/swift-nio/Sources/CNIOWindows/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
