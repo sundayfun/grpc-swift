@@ -1211,7 +1211,6 @@
 		OBJ_3151 /* lock.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_1220 /* lock.swift */; };
 		OBJ_3153 /* CNIOAtomics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = "swift-nio::CNIOAtomics::Product" /* CNIOAtomics.framework */; };
 		OBJ_3159 /* AddressedEnvelope.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_1222 /* AddressedEnvelope.swift */; };
-		OBJ_3160 /* AsyncAwaitSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_1223 /* AsyncAwaitSupport.swift */; };
 		OBJ_3161 /* BSDSocketAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_1224 /* BSDSocketAPI.swift */; };
 		OBJ_3162 /* ByteBuffer-aux.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_1225 /* ByteBuffer-aux.swift */; };
 		OBJ_3163 /* ByteBuffer-conversions.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_1226 /* ByteBuffer-conversions.swift */; };
@@ -13340,7 +13339,6 @@
 			buildActionMask = 0;
 			files = (
 				OBJ_3159 /* AddressedEnvelope.swift in Sources */,
-				OBJ_3160 /* AsyncAwaitSupport.swift in Sources */,
 				OBJ_3161 /* BSDSocketAPI.swift in Sources */,
 				OBJ_3162 /* ByteBuffer-aux.swift in Sources */,
 				OBJ_3163 /* ByteBuffer-conversions.swift in Sources */,
