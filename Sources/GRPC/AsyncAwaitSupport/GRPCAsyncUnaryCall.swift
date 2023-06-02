@@ -41,12 +41,20 @@ public struct GRPCAsyncUnaryCall<Request: Sendable, Response: Sendable>: Sendabl
 
   // MARK: - Response Parts
 
+  private func withRPCCancellation<R: Sendable>(_ fn: () async throws -> R) async rethrows -> R {
+    return try await withTaskCancellationHandler(operation: fn) {
+      self.cancel()
+    }
+  }
+
   /// The initial metadata returned from the server.
   ///
   /// - Important: The initial metadata will only be available when the response has been received.
   public var initialMetadata: HPACKHeaders {
     get async throws {
-      try await self.responseParts.initialMetadata.get()
+      try await self.withRPCCancellation {
+        try await self.responseParts.initialMetadata.get()
+      }
     }
   }
 
@@ -56,13 +64,15 @@ public struct GRPCAsyncUnaryCall<Request: Sendable, Response: Sendable>: Sendabl
   /// Callers should rely on the `status` of the call for the canonical outcome.
   public var response: Response {
     get async throws {
-      do {
-        return try await self.responseParts.response.get()
-      } catch {
-        if let grpcStatus = error as? GRPCStatus {
-          throw GRPCAsyncError(status: grpcStatus, trailers: try? await self.trailingMetadata)
-        } else {
-          throw error
+      try await self.withRPCCancellation {
+        do {
+          return try await self.responseParts.response.get()
+        } catch {
+          if let grpcStatus = error as? GRPCStatus {
+            throw GRPCAsyncError(status: grpcStatus, trailers: try? await self.trailingMetadata)
+          } else {
+            throw error
+          }
         }
       }
     }
@@ -73,7 +83,9 @@ public struct GRPCAsyncUnaryCall<Request: Sendable, Response: Sendable>: Sendabl
   /// - Important: Awaiting this property will suspend until the responses have been consumed.
   public var trailingMetadata: HPACKHeaders {
     get async throws {
-      try await self.responseParts.trailingMetadata.get()
+      try await self.withRPCCancellation {
+        try await self.responseParts.trailingMetadata.get()
+      }
     }
   }
 
@@ -83,7 +95,9 @@ public struct GRPCAsyncUnaryCall<Request: Sendable, Response: Sendable>: Sendabl
   public var status: GRPCStatus {
     get async {
       // force-try acceptable because any error is encapsulated in a successful GRPCStatus future.
-      try! await self.responseParts.status.get()
+      await self.withRPCCancellation {
+        try! await self.responseParts.status.get()
+      }
     }
   }
 
