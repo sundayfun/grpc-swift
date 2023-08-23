@@ -55,7 +55,15 @@ public struct GRPCAsyncClientStreamingCall<Request: Sendable, Response: Sendable
   /// The response returned by the server.
   public var response: Response {
     get async throws {
-      try await self.responseParts.response.get()
+      do {
+        return try await self.responseParts.response.get()
+      } catch {
+        if let grpcStatus = error as? GRPCStatus {
+          throw GRPCAsyncError(status: grpcStatus, trailers: try? await self.trailingMetadata)
+        } else {
+          throw error
+        }
+      }
     }
   }
 
