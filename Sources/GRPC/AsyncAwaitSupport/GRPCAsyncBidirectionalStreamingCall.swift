@@ -170,19 +170,16 @@ internal enum AsyncCall {
         if status.isOk {
           responseSource.finish()
         } else {
-//            responseParts.trailingMetadata.whenSuccess { header in
-//                responseSource.finish(GRPCAsyncError(status: status, trailers: header))
-//            }
-            responseSource.finish(status)
+            responseParts.trailingMetadata.whenComplete { result in
+                switch result {
+                case .success(let header):
+                    responseSource.finish(GRPCAsyncError(status: status, trailers: header))
+                case .failure:
+                    responseSource.finish(status)
+                }
+            }
         }
-          responseParts.trailingMetadata.whenComplete { result in
-              switch result {
-              case .success(let success):
-                  requestStream?.finish(GRPCAsyncError(status: status, trailers: success))
-              case .failure:
-                  requestStream?.finish(status)
-              }
-          }
+          requestStream?.finish(status)
       }
     }
   }
