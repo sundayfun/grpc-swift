@@ -42,9 +42,9 @@ public struct GRPCAsyncUnaryCall<Request: Sendable, Response: Sendable>: Sendabl
   // MARK: - Response Parts
 
   private func withRPCCancellation<R: Sendable>(_ fn: () async throws -> R) async rethrows -> R {
-    return try await withTaskCancellationHandler {
+    try await withTaskCancellationHandler {
       do {
-        try fn()
+        return try await fn()
       } catch {
         if let grpcStatus = error as? GRPCStatus {
           throw GRPCAsyncError(status: grpcStatus, trailers: try? await self.trailingMetadata)

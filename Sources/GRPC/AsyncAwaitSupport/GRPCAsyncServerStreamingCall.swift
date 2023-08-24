@@ -50,9 +50,19 @@ public struct GRPCAsyncServerStreamingCall<Request: Sendable, Response: Sendable
   // MARK: - Response Parts
 
   private func withRPCCancellation<R: Sendable>(_ fn: () async throws -> R) async rethrows -> R {
-    return try await withTaskCancellationHandler(operation: fn) {
-      self.cancel()
-    }
+      try await withTaskCancellationHandler {
+        do {
+          return try await fn()
+        } catch {
+          if let grpcStatus = error as? GRPCStatus {
+            throw GRPCAsyncError(status: grpcStatus, trailers: try? await self.trailingMetadata)
+          } else {
+            throw error
+          }
+        }
+      } onCancel: {
+        self.cancel()
+      }
   }
 
   /// The initial metadata returned from the server.
