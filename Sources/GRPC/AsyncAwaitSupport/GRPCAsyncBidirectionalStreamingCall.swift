@@ -170,7 +170,9 @@ internal enum AsyncCall {
         if status.isOk {
           responseSource.finish()
         } else {
-          responseSource.finish(status)
+            responseParts.trailingMetadata.whenSuccess { header in
+                responseSource.finish(GRPCAsyncError(status: status, trailers: header))
+            }
         }
         requestStream?.finish(status)
       }
