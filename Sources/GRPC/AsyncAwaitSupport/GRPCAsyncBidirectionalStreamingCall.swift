@@ -166,13 +166,13 @@ internal enum AsyncCall {
         // TODO: when we support backpressure we will need to stop ignoring the return value.
         _ = responseSource.yield(response)
 
-      case let .end(status, _):
+      case let .end(status, header):
         if status.isOk {
           responseSource.finish()
         } else {
-          responseSource.finish(status)
+          responseSource.finish(GRPCAsyncError(status: status, trailers: header))
         }
-        requestStream?.finish(status)
+        requestStream?.finish(GRPCAsyncError(status: status, trailers: header))
       }
     }
   }
@@ -191,8 +191,8 @@ internal enum AsyncCall {
       switch responsePart {
       case .metadata, .message:
         ()
-      case let .end(status, _):
-        requestStream?.finish(status)
+      case let .end(status, header):
+        requestStream?.finish(GRPCAsyncError(status: status, trailers: header))
       }
     }
   }
